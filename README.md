@@ -13,6 +13,16 @@ Sou desenvolvedor pleno e trabalho no dia a dia com **C#/.NET e SQL Server**: ma
 
 Passei por suporte e infraestrutura de TI antes de entrar de vez em desenvolvimento, e levo essa visão de quem usa e de quem mantém o sistema para dentro do código. Agora estou abrindo o leque para o front-end com **React**, rumo a uma atuação Full Stack.
 
+<p align="center">
+  <img src="assets/tags.svg" alt="Palavras-chave: stored procedures, SQL Server, C#, .NET, APIs REST, React, entre outras" width="100%">
+</p>
+
+## Minha trilha
+
+<p align="center">
+  <img src="assets/trilha.svg" alt="Trilha: suporte e infraestrutura de TI, estágio em .NET, desenvolvedor júnior, desenvolvedor pleno (hoje) e Full Stack como próximo passo" width="100%">
+</p>
+
 ## Projetos em destaque
 
 Os dois repositórios são privados, então aqui vai a vitrine.
@@ -36,7 +46,7 @@ Os dois repositórios são privados, então aqui vai a vitrine.
 ## Tecnologias
 
 <p align="center">
-  <img src="assets/stack.svg" alt="Tecnologias: C#, .NET, ASP.NET Core, Entity Framework, APIs REST, SQL Server, React, JavaScript, Vue.js, HTML5, CSS3, Git, Firebase, MVC" width="100%">
+  <img src="assets/stack.svg" alt="Tecnologias: C#, .NET, ASP.NET Core, Entity Framework, APIs REST, SQL Server, React, JavaScript, Vue.js, HTML5, CSS3, Git, Firebase, MVC, integração de sistemas e sistemas legados" width="100%">
 </p>
 
 ## Em foco agora
@@ -71,3 +81,7 @@ Featured (private) projects: **Beat Me!**, a workout app with friend competition
 Languages: Portuguese (native), English (intermediate). Reach me on [LinkedIn](https://www.linkedin.com/in/leonardovono/).
 
 </details>
+
+<p align="center">
+  <img src="assets/footer.svg" alt="Obrigado pela visita" width="100%">
+</p>
