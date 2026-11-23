@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Leonardo Vono, Desenvolvedor de Software Pleno">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<clipPath id="c"><rect width="1000" height="260" rx="18"/></clipPath>
+</defs>
+<style>
+text{font-family:'Segoe UI', -apple-system, Helvetica, Arial, sans-serif}
+.w1{animation:mv 14s linear infinite}.w2{animation:mv 22s linear infinite reverse}
+@keyframes mv{from{transform:translateX(0)}to{transform:translateX(-200px)}}
+.f{opacity:0;animation:fr 12s infinite}.f2{animation-delay:4s}.f3{animation-delay:8s}
+@keyframes fr{0%{opacity:0;transform:translateY(6px)}4%,28%{opacity:1;transform:none}33%,100%{opacity:0}}
+.cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+.tag{animation:fl 4s ease-in-out infinite}.t2{animation-delay:.6s}.t3{animation-delay:1.2s}.t4{animation-delay:1.8s}
+@keyframes fl{50%{transform:translateY(-4px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+@media (prefers-reduced-motion: reduce){.f{opacity:1}.f2,.f3{display:none}}
+</style>
+<rect width="1000" height="260" rx="18" fill="#0d1117"/>
+<g clip-path="url(#c)">
+<g class="w2"><path class="" d="M0 188 q50 -16 100 0 t100 0 q50 -16 100 0 t100 0 q50 -16 100 0 t100 0 q50 -16 100 0 t100 0 q50 -16 100 0 t100 0 q50 -16 100 0 t100 0 q50 -16 100 0 t100 0 q50 -16 100 0 t100 0 q50 -16 100 0 t100 0 q50 -16 100 0 t100 0 q50 -16 100 0 t100 0 q50 -16 100 0 t100 0 q50 -16 100 0 t100 0 q50 -16 100 0 t100 0 V260 H0 Z" fill="#a78bfa" fill-opacity="0.1"/></g>
+<g class="w1"><path class="" d="M0 212 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 q50 -12 100 0 t100 0 V260 H0 Z" fill="#2dd4bf" fill-opacity="0.1"/></g>
+<rect x="0" y="0" width="1000" height="5" fill="url(#g)"/>
+</g>
+<rect x=".5" y=".5" width="999" height="259" rx="17.5" fill="none" stroke="#30363d"/>
+<text x="56" y="92" font-size="46" font-weight="700" fill="#e6edf3">Leonardo Vono</text>
+<text x="58" y="128" font-size="22" font-weight="600" fill="url(#g)">Desenvolvedor de Software Pleno</text>
+<g font-family="ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="16" fill="#8b949e">
+<text class="f " x="58" y="162">&gt; C#/.NET e SQL Server no dia a dia<tspan class="cur" fill="#2dd4bf">▌</tspan></text>
+<text class="f f2" x="58" y="162">&gt; APIs REST que ligam sistemas corporativos<tspan class="cur" fill="#2dd4bf">▌</tspan></text>
+<text class="f f3" x="58" y="162">&gt; Rumo a Full Stack com React<tspan class="cur" fill="#2dd4bf">▌</tspan></text>
+</g>
+<g class="tag t1"><rect x="700" y="62" width="81" height="32" rx="16" fill="#a78bfa" fill-opacity=".14" stroke="#a78bfa" stroke-opacity=".7"/><text x="740.5" y="83" font-size="14" font-weight="600" text-anchor="middle" fill="#a78bfa">C#/.NET</text></g>
+<g class="tag t2"><rect x="830" y="62" width="104" height="32" rx="16" fill="#f472b6" fill-opacity=".14" stroke="#f472b6" stroke-opacity=".7"/><text x="882" y="83" font-size="14" font-weight="600" text-anchor="middle" fill="#f472b6">SQL Server</text></g>
+<g class="tag t3"><rect x="700" y="108" width="97" height="32" rx="16" fill="#2dd4bf" fill-opacity=".14" stroke="#2dd4bf" stroke-opacity=".7"/><text x="748.5" y="129" font-size="14" font-weight="600" text-anchor="middle" fill="#2dd4bf">APIs REST</text></g>
+<g class="tag t4"><rect x="830" y="108" width="65" height="32" rx="16" fill="#58a6ff" fill-opacity=".14" stroke="#58a6ff" stroke-opacity=".7"/><text x="862.5" y="129" font-size="14" font-weight="600" text-anchor="middle" fill="#58a6ff">React</text></g>
+<text x="58" y="226" font-size="14" fill="#8b949e">Bauru, SP · Brasil · Sistemas de Informação (FMU)</text>
+</svg>

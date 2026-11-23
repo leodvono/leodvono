@@ -1,8 +1,5 @@
-<h1 align="center">Olá, eu sou o Leonardo Vono 👋</h1>
-
 <p align="center">
-  Desenvolvedor de Software Júnior · Bauru, SP 🇧🇷<br>
-  C#/.NET · SQL Server · APIs REST · evoluindo para Full Stack com React
+  <img src="assets/header.svg" alt="Leonardo Vono, Desenvolvedor de Software Pleno" width="100%">
 </p>
 
 <p align="center">
@@ -12,9 +9,22 @@
 
 ## Sobre mim
 
-Sou desenvolvedor júnior e trabalho no dia a dia com **C#/.NET e SQL Server**: manutenção de sistemas corporativos, procedures, importação e automação de dados e integração entre sistemas por **APIs REST**.
+Sou desenvolvedor pleno e trabalho no dia a dia com **C#/.NET e SQL Server**: manutenção e evolução de sistemas corporativos, procedures, importação e automação de dados e integração entre sistemas por **APIs REST**.
 
 Passei por suporte e infraestrutura de TI antes de entrar de vez em desenvolvimento, e levo essa visão de quem usa e de quem mantém o sistema para dentro do código. Agora estou abrindo o leque para o front-end com **React**, rumo a uma atuação Full Stack.
+
+## Projetos em destaque
+
+Os dois repositórios são privados, então aqui vai a vitrine.
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/projeto-beatme.svg" alt="Beat Me!: app de treino com competição entre amigos" width="100%"></td>
+    <td width="50%"><img src="assets/projeto-sololeveling.svg" alt="Solo TCG: card game inspirado em Solo Leveling" width="100%"></td>
+  </tr>
+</table>
+
+<sub>Solo TCG é um projeto de fã, sem fins comerciais.</sub>
 
 ## O que eu faço
 
@@ -25,11 +35,9 @@ Passei por suporte e infraestrutura de TI antes de entrar de vez em desenvolvime
 
 ## Tecnologias
 
-| | |
-| --- | --- |
-| **Back-end** | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET%20%2F%20ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square) ![REST](https://img.shields.io/badge/APIs%20REST-0F766E?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square) |
-| **Front-end** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MVC](https://img.shields.io/badge/Arquitetura%20MVC-555555?style=flat-square) |
+<p align="center">
+  <img src="assets/stack.svg" alt="Tecnologias: C#, .NET, ASP.NET Core, Entity Framework, APIs REST, SQL Server, React, JavaScript, Vue.js, HTML5, CSS3, Git, Firebase, MVC" width="100%">
+</p>
 
 ## Em foco agora
 
@@ -56,7 +64,9 @@ Me encontre no [LinkedIn](https://www.linkedin.com/in/leonardovono/) ou escreva 
 
 <br>
 
-Junior Software Developer based in Bauru, Brazil, working with **C#/.NET, SQL Server and REST APIs**: stored procedures, data imports, process automation, internal CRM maintenance and system integration. Currently growing into a Full Stack role with **React**, and pursuing a B.S. in Information Systems (expected 2027).
+Mid-level Software Developer based in Bauru, Brazil, working with **C#/.NET, SQL Server and REST APIs**: stored procedures, data imports, process automation, internal CRM maintenance and system integration. Currently growing into a Full Stack role with **React**, and pursuing a B.S. in Information Systems (expected 2027).
+
+Featured (private) projects: **Beat Me!**, a workout app with friend competition (React PWA, Cloudflare Workers, Supabase), and **Solo TCG**, a fan-made card game (JavaScript, Canvas, Capacitor).
 
 Languages: Portuguese (native), English (intermediate). Reach me on [LinkedIn](https://www.linkedin.com/in/leonardovono/).
 
