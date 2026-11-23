@@ -51,9 +51,9 @@ Os dois repositórios são privados, então aqui vai a vitrine.
 
 ## Em foco agora
 
-- 🎓 Bacharelado em **Sistemas de Informação** (FMU), com formatura prevista para 2027.
-- ⚛️ **React**, para fechar o ciclo Full Stack.
-- 🟢 **Node.js** e **IA aplicada** ao desenvolvimento.
+- Bacharelado em **Sistemas de Informação** (FMU), com formatura prevista para 2027.
+- **React**, para fechar o ciclo Full Stack.
+- **Node.js** e **IA aplicada** ao desenvolvimento.
 
 ## Formação e cursos
 
